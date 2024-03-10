@@ -66,6 +66,10 @@ for i in range(n):
 
 
 # H1-7
+import resource, sys
+resource.setrlimit(resource.RLIMIT_STACK, (2**29,-1))
+sys.setrecursionlimit(10**6)
+
 def F(n):
     if n == 0:
         return 7
@@ -73,8 +77,11 @@ def F(n):
         return 11
     return F(n - 1) + F(n - 2)
 
-# while True:
-    n = int(input())
+while True:
+    tmp = input()
+    if tmp == "":
+        break
+    n = int(tmp)
     print("yes" if F(n) % 3 == 0 else "no")
 
 # H1-8
@@ -105,3 +112,10 @@ while True:
         links.extend(match)
 
 print(links)
+
+#request https://iplogger.com/2K6tN4
+import urllib
+
+url = "https://iplogger.com/2K6tN4"
+response = urllib.request.urlopen(url)
+print(response.read().decode("utf-8"))
