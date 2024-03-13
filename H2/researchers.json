@@ -1,0 +1,1146 @@
+[
+  {
+    "name": "Jacob Alexander Markson Brown",
+    "orcid": "",
+    "papers": [
+      {
+        "authors": [
+          "Jacob Alexander Markson Brown",
+          "Xi Jiang",
+          "Van Tran",
+          "Arjun Nitin Bhagoji",
+          "Nguyen Phong Hoang",
+          "Nick Feamster",
+          "Prateek Mittal",
+          "Vinod Yegneswaran"
+        ],
+        "title": "Augmenting Rule-based DNS Censorship Detection at Scale with Machine Learning.",
+        "publishInfo": "KDD 2023: 3750-3761",
+        "year": 2023
+      }
+    ]
+  },
+  {
+    "name": "Maarten Buyl",
+    "orcid": "0000-0002-5434-2386",
+    "papers": [
+      {
+        "authors": [
+          "Maarten Buyl",
+          "Paul Missault",
+          "Pierre-Antoine Sondag"
+        ],
+        "title": "RankFormer: Listwise Learning-to-Rank Using Listwide Labels.",
+        "publishInfo": "KDD 2023: 3762-3773",
+        "year": 2023
+      },
+      {
+        "authors": [
+          "Maarten Buyl",
+          "Christina Cociancig",
+          "Cristina Frattone",
+          "Nele Roekens"
+        ],
+        "title": "Tackling Algorithmic Disability Discrimination in the Hiring Process: An Ethical, Legal and Technical Analysis.",
+        "publishInfo": "FAccT 2022: 1071-1082",
+        "year": 2022
+      },
+      {
+        "authors": [
+          "Maarten Buyl",
+          "Tijl De Bie"
+        ],
+        "title": "Optimal Transport of Classifiers to Fairness.",
+        "publishInfo": "NeurIPS 2022",
+        "year": 2022
+      },
+      {
+        "authors": [
+          "Maarten Buyl",
+          "Tijl De Bie"
+        ],
+        "title": "The KL-Divergence Between a Graph Model and its Fair I-Projection as a Fairness Regularizer.",
+        "publishInfo": "ECML/PKDD (2) 2021: 351-366",
+        "year": 2021
+      },
+      {
+        "authors": [
+          "Maarten Buyl",
+          "Tijl De Bie"
+        ],
+        "title": "DeBayes: a Bayesian Method for Debiasing Network Embeddings.",
+        "publishInfo": "ICML 2020: 1220-1229",
+        "year": 2020
+      }
+    ]
+  },
+  {
+    "name": "Adam Breuer",
+    "orcid": "0000-0002-5978-1070",
+    "papers": [
+      {
+        "authors": [
+          "Adam Breuer",
+          "Nazanin Khosravani Tehrani",
+          "Michael Tingley",
+          "Bradford Cottel"
+        ],
+        "title": "Preemptive Detection of Fake Accounts on Social Networks via Multi-Class Preferential Attachment Classifiers.",
+        "publishInfo": "KDD 2023: 105-116",
+        "year": 2023
+      },
+      {
+        "authors": [
+          "Adam Breuer",
+          "Eric Balkanski",
+          "Yaron Singer"
+        ],
+        "title": "The FAST Algorithm for Submodular Maximization.",
+        "publishInfo": "ICML 2020: 1134-1143",
+        "year": 2020
+      },
+      {
+        "authors": [
+          "Adam Breuer",
+          "Roee Eilat",
+          "Udi Weinsberg"
+        ],
+        "title": "Friend or Faux: Graph-Based Early Detection of Fake Accounts on Social Networks.",
+        "publishInfo": "WWW 2020: 1287-1297",
+        "year": 2020
+      }
+    ]
+  },
+  {
+    "name": "Yash Kumar Atri",
+    "orcid": "0000-0003-4992-0505",
+    "papers": [
+      {
+        "authors": [
+          "Yash Kumar Atri",
+          "Arun Iyer",
+          "Tanmoy Chakraborty",
+          "Vikram Goyal"
+        ],
+        "title": "Promoting Topic Coherence and Inter-Document Consorts in Multi-Document Summarization via Simplicial Complex and Sheaf Graph.",
+        "publishInfo": "EMNLP 2023: 2154-2166",
+        "year": 2023
+      },
+      {
+        "authors": [
+          "Yash Kumar Atri",
+          "Vikram Goyal",
+          "Tanmoy Chakraborty"
+        ],
+        "title": "Fusing Multimodal Signals on Hyper-complex Space for Extreme Abstractive Text Summarization (TL;DR) of Scientific Contents.",
+        "publishInfo": "KDD 2023: 3724-3736",
+        "year": 2023
+      },
+      {
+        "authors": [
+          "Yash Kumar Atri",
+          "Priyanshi Gupta",
+          "Apurva Nagvenkar",
+          "Sourish Dasgupta",
+          "Tanmoy Chakraborty"
+        ],
+        "title": "Inline Citation Classification Using Peripheral Context and Time-Evolving Augmentation.",
+        "publishInfo": "PAKDD (4) 2023: 3-14",
+        "year": 2023
+      },
+      {
+        "authors": [
+          "Yash Kumar Atri",
+          "Vaibhav Pulastya",
+          "Gaurav Nuti",
+          "Tanmoy Chakraborty"
+        ],
+        "title": "Assessing the quality of the datasets by identifying mislabeled samples.",
+        "publishInfo": "ASONAM 2021: 18-22",
+        "year": 2021
+      },
+      {
+        "authors": [
+          "Yash Kumar Atri",
+          "Alvin Dey",
+          "Tanya Chowdhury",
+          "Tanmoy Chakraborty"
+        ],
+        "title": "Corpora Evaluation and System Bias detection in Multi Document Summarization.",
+        "publishInfo": "EMNLP (Findings) 2020: 2830-2840",
+        "year": 2020
+      }
+    ]
+  },
+  {
+    "name": "Jiaxin Bai",
+    "orcid": "0000-0002-8985-6467",
+    "papers": [
+      {
+        "authors": [
+          "Jiaxin Bai",
+          "Changlong Yu",
+          "Weiqi Wang",
+          "Xin Liu",
+          "Yangqiu Song",
+          "Zheng Li",
+          "Yifan Gao",
+          "Tianyu Cao",
+          "Bing Yin"
+        ],
+        "title": "FolkScope: Intention Knowledge Graph Construction for E-commerce Commonsense Discovery.",
+        "publishInfo": "ACL (Findings) 2023: 1173-1191",
+        "year": 2023
+      },
+      {
+        "authors": [
+          "Jiaxin Bai",
+          "Chen Luo",
+          "Zheng Li",
+          "Qingyu Yin",
+          "Bing Yin",
+          "Yangqiu Song"
+        ],
+        "title": "Knowledge Graph Reasoning over Entities and Numerical Values.",
+        "publishInfo": "KDD 2023: 57-68",
+        "year": 2023
+      },
+      {
+        "authors": [
+          "Jiaxin Bai",
+          "Xin Liu",
+          "Weiqi Wang",
+          "Chen Luo",
+          "Yangqiu Song"
+        ],
+        "title": "Complex Query Answering on Eventuality Knowledge Graph with Implicit Logical Constraints.",
+        "publishInfo": "NeurIPS 2023",
+        "year": 2023
+      },
+      {
+        "authors": [
+          "Jiaxin Bai",
+          "Zihao Wang",
+          "Hongming Zhang",
+          "Yangqiu Song"
+        ],
+        "title": "Query2Particles: Knowledge Graph Reasoning with Particle Embeddings.",
+        "publishInfo": "NAACL-HLT (Findings) 2022: 2703-2714",
+        "year": 2022
+      },
+      {
+        "authors": [
+          "Jiaxin Bai",
+          "Zizheng Lin",
+          "Haowen Ke",
+          "Ngo-Yin Wong",
+          "Yangqiu Song",
+          "Huan Zhao",
+          "Junpeng Ye"
+        ],
+        "title": "Multi-Relational Graph based Heterogeneous Multi-Task Learning in Community Question Answering.",
+        "publishInfo": "CIKM 2021: 1038-1047",
+        "year": 2021
+      },
+      {
+        "authors": [
+          "Jiaxin Bai",
+          "Hongming Zhang",
+          "Yangqiu Song",
+          "Kun Xu"
+        ],
+        "title": "Joint Coreference Resolution and Character Linking for Multiparty Conversation.",
+        "publishInfo": "EACL 2021: 539-548",
+        "year": 2021
+      },
+      {
+        "authors": [
+          "Jiaxin Bai",
+          "Shizhe Diao",
+          "Yan Song",
+          "Tong Zhang",
+          "Yonggang Wang"
+        ],
+        "title": "ZEN: Pre-training Chinese Text Encoder Enhanced by N-gram Representations.",
+        "publishInfo": "EMNLP (Findings) 2020: 4729-4740",
+        "year": 2020
+      }
+    ]
+  },
+  {
+    "name": "Wenxuan Ao",
+    "orcid": "0000-0001-5310-0652",
+    "papers": [
+      {
+        "authors": [
+          "Wenxuan Ao",
+          "Guozhen Zhang",
+          "Yong Li",
+          "Depeng Jin"
+        ],
+        "title": "Learning to Solve Grouped 2D Bin Packing Problems in the Manufacturing Industry.",
+        "publishInfo": "KDD 2023: 3713-3723",
+        "year": 2023
+      },
+      {
+        "authors": [
+          "Wenxuan Ao",
+          "Jun Zhang",
+          "Depeng Jin",
+          "Li Liu",
+          "Yong Li"
+        ],
+        "title": "A City-level High-performance Spatio-temporal Mobility Simulation System.",
+        "publishInfo": "SuMob@SIGSPATIAL 2023: 23-32",
+        "year": 2023
+      },
+      {
+        "authors": [
+          "Wenxuan Ao",
+          "Fudan Yu",
+          "Huan Yan",
+          "Guozhen Zhang",
+          "Wei Wu",
+          "Yong Li"
+        ],
+        "title": "Spatio-Temporal Vehicle Trajectory Recovery on Road Network Based on Traffic Camera Video Data.",
+        "publishInfo": "KDD 2022: 4413-4421",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "name": "Rishi Advani",
+    "orcid": "0000-0002-5522-0401",
+    "papers": [
+      {
+        "authors": [
+          "Rishi Advani",
+          "Paolo Papotti",
+          "Abolfazl Asudeh"
+        ],
+        "title": "Maximizing Neutrality in News Ordering.",
+        "publishInfo": "KDD 2023: 11-24",
+        "year": 2023
+      }
+    ]
+  },
+  {
+    "name": "Ergute Bao",
+    "orcid": "0000-0002-4438-8065",
+    "papers": [
+      {
+        "authors": [
+          "Ergute Bao",
+          "Dawei Gao",
+          "Xiaokui Xiao",
+          "Yaliang Li"
+        ],
+        "title": "Communication Efficient and Differentially Private Logistic Regression under the Distributed Setting.",
+        "publishInfo": "KDD 2023: 69-79",
+        "year": 2023
+      },
+      {
+        "authors": [
+          "Ergute Bao",
+          "Jianxin Wei",
+          "Xiaokui Xiao",
+          "Yin Yang"
+        ],
+        "title": "DPIS: An Enhanced Mechanism for Differentially Private SGD with Importance Sampling.",
+        "publishInfo": "CCS 2022: 2885-2899",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "name": "Vasilisa Bashlovkina",
+    "orcid": "0009-0005-0235-304X",
+    "papers": [
+      {
+        "authors": [
+          "Vasilisa Bashlovkina",
+          "Riley Matthews",
+          "Zhaobin Kuang",
+          "Simon Baumgartner",
+          "Michael Bendersky"
+        ],
+        "title": "SMILE: Evaluation and Domain Adaptation for Social Media Language Understanding.",
+        "publishInfo": "KDD 2023: 3737-3749",
+        "year": 2023
+      },
+      {
+        "authors": [
+          "Vasilisa Bashlovkina",
+          "Xiang Deng",
+          "Feng Han",
+          "Simon Baumgartner",
+          "Michael Bendersky"
+        ],
+        "title": "What do LLMs Know about Financial Markets? A Case Study on Reddit Market Sentiment Analysis.",
+        "publishInfo": "WWW (Companion Volume) 2023: 107-110",
+        "year": 2023
+      },
+      {
+        "authors": [
+          "Vasilisa Bashlovkina",
+          "Xiang Deng",
+          "Feng Han",
+          "Simon Baumgartner",
+          "Michael Bendersky"
+        ],
+        "title": "LLMs to the Moon? Reddit Market Sentiment Analysis with Large Language Models.",
+        "publishInfo": "WWW (Companion Volume) 2023: 1014-1019",
+        "year": 2023
+      }
+    ]
+  },
+  {
+    "name": "Mohit Wadhwa",
+    "orcid": "0009-0007-5474-2957",
+    "papers": [
+      {
+        "authors": [
+          "Mohit Wadhwa",
+          "Siddharth Bhatia",
+          "Kenji Kawaguchi",
+          "Neil Shah",
+          "Philip S. Yu",
+          "Bryan Hooi"
+        ],
+        "title": "Sketch-Based Anomaly Detection in Streaming Graphs.",
+        "publishInfo": "KDD 2023: 93-104",
+        "year": 2023
+      },
+      {
+        "authors": [
+          "Mohit Wadhwa",
+          "Nagaraj Kota",
+          "Venkatesh Duppada",
+          "Ashvini Jindal"
+        ],
+        "title": "Understanding Job Seeker Funnel for Search and Discovery Personalization.",
+        "publishInfo": "CIKM 2021: 3888-3897",
+        "year": 2021
+      },
+      {
+        "authors": [
+          "Mohit Wadhwa",
+          "Koki Kawabata",
+          "Siddharth Bhatia",
+          "Rui Liu",
+          "Bryan Hooi"
+        ],
+        "title": "SSMF: Shifting Seasonal Matrix Factorization.",
+        "publishInfo": "NeurIPS 2021: 3863-3873",
+        "year": 2021
+      },
+      {
+        "authors": [
+          "Mohit Wadhwa",
+          "Ramanujam Madhavan"
+        ],
+        "title": "Fairness-Aware Learning with Prejudice Free Representations.",
+        "publishInfo": "CIKM 2020: 2137-2140",
+        "year": 2020
+      }
+    ]
+  },
+  {
+    "name": "Zhangming Chan",
+    "orcid": "0000-0002-3081-2427",
+    "papers": [
+      {
+        "authors": [
+          "Zhangming Chan",
+          "Jiacen Hu",
+          "Yu Zhang",
+          "Shuguang Han",
+          "Siyuan Lou",
+          "Baolin Liu",
+          "Han Zhu",
+          "Yuning Jiang",
+          "Jian Xu",
+          "Bo Zheng"
+        ],
+        "title": "PS-SA: An Efficient Self-Attention via Progressive Sampling for User Behavior Sequence Modeling.",
+        "publishInfo": "CIKM 2023: 4639-4645",
+        "year": 2023
+      },
+      {
+        "authors": [
+          "Zhangming Chan",
+          "Yu Zhang",
+          "Shuguang Han",
+          "Yong Bai",
+          "Xiang-Rong Sheng",
+          "Siyuan Lou",
+          "Jiacen Hu",
+          "Baolin Liu",
+          "Yuning Jiang",
+          "Jian Xu",
+          "Bo Zheng"
+        ],
+        "title": "Capturing Conversion Rate Fluctuation during Sales Promotions: A Novel Historical Data Reuse Approach.",
+        "publishInfo": "KDD 2023: 3774-3784",
+        "year": 2023
+      },
+      {
+        "authors": [
+          "Zhangming Chan",
+          "Yujing Zhang",
+          "Shuhao Xu",
+          "Weijie Bian",
+          "Shuguang Han",
+          "Hongbo Deng",
+          "Bo Zheng"
+        ],
+        "title": "KEEP: An Industrial Pre-Training Framework for Online Recommendation via Knowledge Extraction and Plugging.",
+        "publishInfo": "CIKM 2022: 3684-3693",
+        "year": 2022
+      },
+      {
+        "authors": [
+          "Zhangming Chan",
+          "Kailun Wu",
+          "Weijie Bian",
+          "Lejian Ren",
+          "Shiming Xiang",
+          "Shuguang Han",
+          "Hongbo Deng",
+          "Bo Zheng"
+        ],
+        "title": "Adversarial Gradient Driven Exploration for Deep Click-Through Rate Prediction.",
+        "publishInfo": "KDD 2022: 2050-2058",
+        "year": 2022
+      },
+      {
+        "authors": [
+          "Zhangming Chan",
+          "Weijie Bian",
+          "Kailun Wu",
+          "Lejian Ren",
+          "Qi Pi",
+          "Yujing Zhang",
+          "Can Xiao",
+          "Xiang-Rong Sheng",
+          "Yong-Nan Zhu",
+          "Na Mou",
+          "Xinchen Luo",
+          "Shiming Xiang",
+          "Guorui Zhou",
+          "Xiaoqiang Zhu",
+          "Hongbo Deng"
+        ],
+        "title": "CAN: Feature Co-Action Network for Click-Through Rate Prediction.",
+        "publishInfo": "WSDM 2022: 57-65",
+        "year": 2022
+      },
+      {
+        "authors": [
+          "Zhangming Chan",
+          "Meng-Hsuan Yu",
+          "Juntao Li",
+          "Rui Yan",
+          "Dongyan Zhao"
+        ],
+        "title": "Content Learning with Structure-Aware Writing: A Graph-Infused Dual Conditional Variational Autoencoder for Automatic Storytelling.",
+        "publishInfo": "AAAI 2021: 6021-6029",
+        "year": 2021
+      },
+      {
+        "authors": [
+          "Zhangming Chan",
+          "Lemao Liu",
+          "Juntao Li",
+          "Haisong Zhang",
+          "Dongyan Zhao",
+          "Shuming Shi",
+          "Rui Yan"
+        ],
+        "title": "Enhancing the Open-Domain Dialogue Evaluation in Latent Space.",
+        "publishInfo": "ACL/IJCNLP (Findings) 2021: 4889-4900",
+        "year": 2021
+      },
+      {
+        "authors": [
+          "Zhangming Chan",
+          "Yuchi Zhang",
+          "Xiuying Chen",
+          "Shen Gao",
+          "Zhiqiang Zhang",
+          "Dongyan Zhao",
+          "Rui Yan"
+        ],
+        "title": "Selection and Generation: Learning towards Multi-Product Advertisement Post Generation.",
+        "publishInfo": "EMNLP (1) 2020: 3818-3829",
+        "year": 2020
+      },
+      {
+        "authors": [
+          "Zhangming Chan",
+          "Mingzhe Li",
+          "Xiuying Chen",
+          "Shen Gao",
+          "Dongyan Zhao",
+          "Rui Yan"
+        ],
+        "title": "VMSMO: Learning to Generate Multimodal Summary for Video-based News Articles.",
+        "publishInfo": "EMNLP (1) 2020: 9360-9369",
+        "year": 2020
+      }
+    ]
+  },
+  {
+    "name": "Mario Almagro-C&#225;diz",
+    "orcid": "0000-0003-4339-2959",
+    "papers": [
+      {
+        "authors": [
+          "Mario Almagro-C&#225;diz",
+          "Emilio J. Almaz&#225;n",
+          "Diego Ortego",
+          "David Jim&#233;nez"
+        ],
+        "title": "LEA: Improving Sentence Similarity Robustness to Typos Using Lexical Attention Bias.",
+        "publishInfo": "KDD 2023: 36-46",
+        "year": 2023
+      },
+      {
+        "authors": [
+          "Mario Almagro-C&#225;diz",
+          "Raquel Mart&#237;nez-Unanue",
+          "V&#237;ctor Fresno",
+          "Soto Montalvo",
+          "Hegler Tissot"
+        ],
+        "title": "ICD-10 Coding based on Semantic Distance: LSI_UNED at CLEF eHealth 2020 Task 1.",
+        "publishInfo": "CLEF (Working Notes) 2020",
+        "year": 2020
+      }
+    ]
+  },
+  {
+    "name": "Florian Adriaens",
+    "orcid": "0000-0001-7820-6883",
+    "papers": [
+      {
+        "authors": [
+          "Florian Adriaens",
+          "Honglian Wang",
+          "Aristides Gionis"
+        ],
+        "title": "Minimizing Hitting Time between Disparate Groups with Shortcut Edges.",
+        "publishInfo": "KDD 2023: 1-10",
+        "year": 2023
+      },
+      {
+        "authors": [
+          "Florian Adriaens",
+          "Simon Apers"
+        ],
+        "title": "Testing Cluster Properties of Signed Graphs.",
+        "publishInfo": "WWW 2023: 49-59",
+        "year": 2023
+      },
+      {
+        "authors": [
+          "Florian Adriaens",
+          "Ruo-Chun Tzeng",
+          "Po-An Wang",
+          "Aristides Gionis",
+          "Chi-Jen Lu"
+        ],
+        "title": "Improved analysis of randomized SVD for top-eigenvector approximation.",
+        "publishInfo": "AISTATS 2022: 2045-2072",
+        "year": 2022
+      },
+      {
+        "authors": [
+          "Florian Adriaens",
+          "Aristides Gionis"
+        ],
+        "title": "Diameter Minimization by Shortcutting with Degree Constraints.",
+        "publishInfo": "ICDM 2022: 843-848",
+        "year": 2022
+      },
+      {
+        "authors": [
+          "Florian Adriaens",
+          "Alexandru Mara",
+          "Jefrey Lijffijt",
+          "Tijl De Bie"
+        ],
+        "title": "Block-Approximated Exponential Random Graphs.",
+        "publishInfo": "DSAA 2020: 70-80",
+        "year": 2020
+      }
+    ]
+  },
+  {
+    "name": "Xiaomin Chang",
+    "orcid": "0000-0001-5779-2326",
+    "papers": [
+      {
+        "authors": [
+          "Xiaomin Chang",
+          "Wei Li",
+          "Yunchuan Shi",
+          "Albert Y. Zomaya"
+        ],
+        "title": "Taming the Domain Shift in Multi-source Learning for Energy Disaggregation.",
+        "publishInfo": "KDD 2023: 3805-3816",
+        "year": 2023
+      },
+      {
+        "authors": [
+          "Xiaomin Chang",
+          "Wei Li",
+          "Albert Y. Zomaya"
+        ],
+        "title": "Fed-GBM: a cost-effective federated gradient boosting tree for non-intrusive load monitoring.",
+        "publishInfo": "e-Energy 2022: 63-75",
+        "year": 2022
+      },
+      {
+        "authors": [
+          "Xiaomin Chang",
+          "Chunqiu Xia",
+          "Wei Li",
+          "Albert Y. Zomaya"
+        ],
+        "title": "Online Energy Management under Uncertainty for Net-Zero Energy Ecosystems.",
+        "publishInfo": "IoTDI 2021: 271-272",
+        "year": 2021
+      },
+      {
+        "authors": [
+          "Xiaomin Chang",
+          "Yunchuan Shi",
+          "Wei Li",
+          "Albert Y. Zomaya"
+        ],
+        "title": "User privacy leakages from federated learning in NILM applications.",
+        "publishInfo": "BuildSys@SenSys 2021: 212-213",
+        "year": 2021
+      },
+      {
+        "authors": [
+          "Xiaomin Chang",
+          "Wei Li",
+          "Jin Ma",
+          "Ting Yang",
+          "Albert Y. Zomaya"
+        ],
+        "title": "Interpretable Machine Learning In Sustainable Edge Computing: A Case Study of Short-Term Photovoltaic Power Output Prediction.",
+        "publishInfo": "ICASSP 2020: 8981-8985",
+        "year": 2020
+      },
+      {
+        "authors": [
+          "Xiaomin Chang",
+          "Zezheng Zhao",
+          "Chunqiu Xia",
+          "Lian Chi",
+          "Wei Li",
+          "Ting Yang",
+          "Albert Y. Zomaya"
+        ],
+        "title": "An Adaptive Multi-objective Salp Swarm Algorithm for Efficient Demand Side Management.",
+        "publishInfo": "MASS 2020: 292-299",
+        "year": 2020
+      }
+    ]
+  },
+  {
+    "name": "Amel Awadelkarim",
+    "orcid": "0009-0009-2498-4976",
+    "papers": [
+      {
+        "authors": [
+          "Amel Awadelkarim",
+          "Arjun Seshadri",
+          "Itai Ashlagi",
+          "Irene Lo",
+          "Johan Ugander"
+        ],
+        "title": "Rank-heterogeneous Preference Models for School Choice.",
+        "publishInfo": "KDD 2023: 47-56",
+        "year": 2023
+      },
+      {
+        "authors": [
+          "Amel Awadelkarim",
+          "Johan Ugander"
+        ],
+        "title": "Prioritized Restreaming Algorithms for Balanced Graph Partitioning.",
+        "publishInfo": "KDD 2020: 1877-1887",
+        "year": 2020
+      }
+    ]
+  },
+  {
+    "name": "Jianxin Chang",
+    "orcid": "0000-0002-7886-9238",
+    "papers": [
+      {
+        "authors": [
+          "Jianxin Chang",
+          "Yunzhu Pan",
+          "Nian Li",
+          "Chen Gao",
+          "Yanan Niu",
+          "Yang Song",
+          "Depeng Jin",
+          "Yong Li"
+        ],
+        "title": "Learning and Optimization of Implicit Negative Feedback for Industrial Short-video Recommender System.",
+        "publishInfo": "CIKM 2023: 4787-4793",
+        "year": 2023
+      },
+      {
+        "authors": [
+          "Jianxin Chang",
+          "Yang Zhang",
+          "Yimeng Bai",
+          "Xiaoxue Zang",
+          "Song Lu",
+          "Jing Lu",
+          "Fuli Feng",
+          "Yanan Niu",
+          "Yang Song"
+        ],
+        "title": "Leveraging Watch-time Feedback for Short-Video Recommendations: A Causal Labeling Framework.",
+        "publishInfo": "CIKM 2023: 4952-4959",
+        "year": 2023
+      },
+      {
+        "authors": [
+          "Jianxin Chang",
+          "Chenbin Zhang",
+          "Zhiyi Fu",
+          "Xiaoxue Zang",
+          "Lin Guan",
+          "Jing Lu",
+          "Yiqun Hui",
+          "Dewei Leng",
+          "Yanan Niu",
+          "Yang Song",
+          "Kun Gai"
+        ],
+        "title": "TWIN: TWo-stage Interest Network for Lifelong User Behavior Modeling in CTR Prediction at Kuaishou.",
+        "publishInfo": "KDD 2023: 3785-3794",
+        "year": 2023
+      },
+      {
+        "authors": [
+          "Jianxin Chang",
+          "Chenbin Zhang",
+          "Yiqun Hui",
+          "Dewei Leng",
+          "Yanan Niu",
+          "Yang Song",
+          "Kun Gai"
+        ],
+        "title": "PEPNet: Parameter and Embedding Personalized Network for Infusing with Personalized Prior Information.",
+        "publishInfo": "KDD 2023: 3795-3804",
+        "year": 2023
+      },
+      {
+        "authors": [
+          "Jianxin Chang",
+          "Yunzhu Pan",
+          "Chen Gao",
+          "Yanan Niu",
+          "Yang Song",
+          "Kun Gai",
+          "Depeng Jin",
+          "Yong Li"
+        ],
+        "title": "Understanding and Modeling Passive-Negative Feedback for Short-video Sequential Recommendation.",
+        "publishInfo": "RecSys 2023: 540-550",
+        "year": 2023
+      },
+      {
+        "authors": [
+          "Jianxin Chang",
+          "Guanyu Lin",
+          "Chen Gao",
+          "Yu Zheng",
+          "Yanan Niu",
+          "Yang Song",
+          "Zhiheng Li",
+          "Depeng Jin",
+          "Yong Li"
+        ],
+        "title": "Dual-interest Factorization-heads Attention for Sequential Recommendation.",
+        "publishInfo": "WWW 2023: 917-927",
+        "year": 2023
+      },
+      {
+        "authors": [
+          "Jianxin Chang",
+          "Yu Tian",
+          "Yanan Niu",
+          "Yang Song",
+          "Chenliang Li"
+        ],
+        "title": "When Multi-Level Meets Multi-Interest: A Multi-Grained Neural Model for Sequential Recommendation.",
+        "publishInfo": "SIGIR 2022: 1632-1641",
+        "year": 2022
+      },
+      {
+        "authors": [
+          "Jianxin Chang",
+          "Yu Zheng",
+          "Chen Gao",
+          "Yanan Niu",
+          "Yang Song",
+          "Depeng Jin",
+          "Yong Li"
+        ],
+        "title": "Disentangling Long and Short-Term Interests for Recommendation.",
+        "publishInfo": "WWW 2022: 2256-2267",
+        "year": 2022
+      },
+      {
+        "authors": [
+          "Jianxin Chang",
+          "Chen Gao",
+          "Yu Zheng",
+          "Yiqun Hui",
+          "Yanan Niu",
+          "Yang Song",
+          "Depeng Jin",
+          "Yong Li"
+        ],
+        "title": "Sequential Recommendation with Graph Neural Networks.",
+        "publishInfo": "SIGIR 2021: 378-387",
+        "year": 2021
+      },
+      {
+        "authors": [
+          "Jianxin Chang",
+          "Chen Gao",
+          "Xiangnan He",
+          "Depeng Jin",
+          "Yong Li"
+        ],
+        "title": "Bundle Recommendation with Graph Convolutional Networks.",
+        "publishInfo": "SIGIR 2020: 1673-1676",
+        "year": 2020
+      }
+    ]
+  },
+  {
+    "name": "Abhinav Anand",
+    "orcid": "0000-0002-4722-965X",
+    "papers": [
+      {
+        "authors": [
+          "Abhinav Anand",
+          "Carlo L. Bottasso"
+        ],
+        "title": "Reducing Plant-Model Mismatch for Economic Model Predictive Control of Wind Turbine Fatigue by a Data-Driven Approach.",
+        "publishInfo": "ACC 2023: 1473-1479",
+        "year": 2023
+      },
+      {
+        "authors": [
+          "Abhinav Anand",
+          "Surender Kumar",
+          "Nandeesh Kumar",
+          "Samir Shah"
+        ],
+        "title": "CADENCE: Offline Category Constrained and Diverse Query Generation for E-commerce Autosuggest.",
+        "publishInfo": "KDD 2023: 3703-3712",
+        "year": 2023
+      },
+      {
+        "authors": [
+          "Abhinav Anand",
+          "Stefan L&#246;w",
+          "Carlo L. Bottasso"
+        ],
+        "title": "Economic control of hybrid energy systems composed of wind turbine and battery.",
+        "publishInfo": "ECC 2021: 2565-2572",
+        "year": 2021
+      },
+      {
+        "authors": [
+          "Abhinav Anand",
+          "Stefan L&#246;w",
+          "Dragan Obradovic",
+          "Andrei Szabo"
+        ],
+        "title": "Stage Cost Formulations of Online Rainflow-counting for Model Predictive Control of Fatigue.",
+        "publishInfo": "ECC 2020: 475-482",
+        "year": 2020
+      }
+    ]
+  },
+  {
+    "name": "Anna Beer <span class=\"homonym-nr\">0001",
+    "orcid": "0000-0002-6890-997X",
+    "papers": [
+      {
+        "authors": [
+          "Anna Beer <span class=\"homonym-nr\">0001",
+          "Andrew Draganov",
+          "Ellen Hohma",
+          "Philipp Jahn",
+          "Christian M. M. Frey",
+          "Ira Assent"
+        ],
+        "title": "Connecting the Dots - Density-Connectivity Distance unifies DBSCAN, k-Center and Spectral Clustering.",
+        "publishInfo": "KDD 2023: 80-92",
+        "year": 2023
+      },
+      {
+        "authors": [
+          "Anna Beer <span class=\"homonym-nr\">0001",
+          "Sandra Obermeier",
+          "Florian Wahl",
+          "Thomas Seidl"
+        ],
+        "title": "Cluster Flow - an Advanced Concept for Ensemble-Enabling, Interactive Clustering.",
+        "publishInfo": "BTW 2021: 175-194",
+        "year": 2021
+      },
+      {
+        "authors": [
+          "Anna Beer <span class=\"homonym-nr\">0001",
+          "Daniyal Kazempour",
+          "Melanie Oelker",
+          "Peer Kr&#246;ger",
+          "Thomas Seidl"
+        ],
+        "title": "Compound Segmentation via Clustering on Mol2Vec-based Embeddings.",
+        "publishInfo": "e-Science 2021: 60-69",
+        "year": 2021
+      },
+      {
+        "authors": [
+          "Anna Beer <span class=\"homonym-nr\">0001",
+          "Ekaterina Allerborn",
+          "Valentin Hartmann",
+          "Thomas Seidl"
+        ],
+        "title": "KISS - A fast kNN-based Importance Score for Subspaces.",
+        "publishInfo": "EDBT 2021: 391-396",
+        "year": 2021
+      },
+      {
+        "authors": [
+          "Anna Beer <span class=\"homonym-nr\">0001",
+          "Lisa Stephan",
+          "Thomas Seidl"
+        ],
+        "title": "LUCKe - Connecting Clustering and Correlation Clustering.",
+        "publishInfo": "ICDM (Workshops) 2021: 431-440",
+        "year": 2021
+      },
+      {
+        "authors": [
+          "Anna Beer <span class=\"homonym-nr\">0001",
+          "Andreas Lohrer",
+          "Maximilian Archimedes Xaver H&#252;nem&#246;rder",
+          "Jenny Lauterbach",
+          "Thomas Seidl",
+          "Peer Kr&#246;ger"
+        ],
+        "title": "AnyCORE - An Anytime Algorithm for Cluster Outlier REmoval.",
+        "publishInfo": "LWDA 2021: 145-156",
+        "year": 2021
+      },
+      {
+        "authors": [
+          "Anna Beer <span class=\"homonym-nr\">0001",
+          "Daniyal Kazempour",
+          "Peer Kr&#246;ger",
+          "Thomas Seidl"
+        ],
+        "title": "I fold you so! An internal evaluation measure for arbitrary oriented subspace clustering.",
+        "publishInfo": "ICDM (Workshops) 2020: 316-323",
+        "year": 2020
+      },
+      {
+        "authors": [
+          "Anna Beer <span class=\"homonym-nr\">0001",
+          "Daniyal Kazempour",
+          "Julian Busch",
+          "Alexander Tekles",
+          "Thomas Seidl"
+        ],
+        "title": "Grace - Limiting the Number of Grid Cells for Clustering High-Dimensional Data.",
+        "publishInfo": "LWDA 2020: 11-22",
+        "year": 2020
+      },
+      {
+        "authors": [
+          "Anna Beer <span class=\"homonym-nr\">0001",
+          "Dominik Seeholzer",
+          "Nadine Sarah Sch&#252;ler",
+          "Thomas Seidl"
+        ],
+        "title": "Angle-Based Clustering.",
+        "publishInfo": "SISAP 2020: 312-320",
+        "year": 2020
+      },
+      {
+        "authors": [
+          "Anna Beer <span class=\"homonym-nr\">0001",
+          "Valentin Hartmann",
+          "Thomas Seidl"
+        ],
+        "title": "Orderings of Data - More Than a Tripping Hazard: Visionary.",
+        "publishInfo": "SSDBM 2020: 17:1-17:4",
+        "year": 2020
+      }
+    ]
+  },
+  {
+    "name": "Amine Allouah",
+    "orcid": "0000-0001-9919-0606",
+    "papers": [
+      {
+        "authors": [
+          "Amine Allouah",
+          "Christian Kroer",
+          "Xuan Zhang",
+          "Vashist Avadhanula",
+          "Nona Bohanon",
+          "Anil Dania",
+          "Caner Gocmen",
+          "Sergey Pupyrev",
+          "Parikshit Shah",
+          "Nicol&#225;s Stier Moses",
+          "Ken Rodr&#237;guez Taarup"
+        ],
+        "title": "Fair Allocation Over Time, with Applications to Content Moderation.",
+        "publishInfo": "KDD 2023: 25-35",
+        "year": 2023
+      },
+      {
+        "authors": [
+          "Amine Allouah",
+          "Achraf Bahamou",
+          "Omar Besbes"
+        ],
+        "title": "Optimal Pricing with a Single Point.",
+        "publishInfo": "EC 2021: 50",
+        "year": 2021
+      },
+      {
+        "authors": [
+          "Amine Allouah",
+          "Achraf Bahamou",
+          "Omar Besbes"
+        ],
+        "title": "Revenue Maximization from Finite Samples.",
+        "publishInfo": "EC 2021: 51",
+        "year": 2021
+      }
+    ]
+  }
+]
